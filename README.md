@@ -1,5 +1,5 @@
 # Bem Vindo!!
-# Documentação
+## Documentação
 - Decidimos criar um site para a loja Líder Equipamentos, onde nossos clientes entrasse e soubesse todas as informações necessária sobre uma máquina ou um outro determinado produto, Ex: parafusadeira.
 - Não queremos fazer algo melhor do que o da concorrência, mais sim algo diferente que facilite e surpreenda os clientes, como já dizia um grande empresário conhecido no mundo por criar uma grande marca de aparelhos tecnológicos. “Jobs”
 - Se você está em busca de ferramentas e equipamentos de proteção individual (EPI) para garantir a segurança e eficiência no seu local de trabalho, você está no lugar certo! Estamos comprometidos em fornecer produtos de qualidade que atendam às necessidades específicas dos nossos clientes.
