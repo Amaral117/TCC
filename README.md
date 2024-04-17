@@ -8,9 +8,10 @@
 - Pelo fato de ser uma micro empresa, decidimos criar esse site para otimizar tudo aquilo que for necessário para a loja.
 Nós nos inspiramos nos seguintes sites: Makita e Loja do Mecânico, duas grandes empresas.
 
-## Como está nosso protótipo
+##  Como está nosso protótipo
 
 <img  src="https://github.com/Amaral117/TCC/assets/133986503/53f9497c-c1ab-494d-9c9a-f5a83c3ace98" width="300px" height="300px" alt="Imagem 1 ">
  <img src="https://github.com/Amaral117/TCC/assets/133986503/e91e7395-2fda-42c3-967b-ba3105d68cd9"width="300px" height="300px" alt="Imagem 2 ">
  <img src="https://github.com/Amaral117/TCC/assets/133986503/449686c0-9d4a-4c44-b49a-2ff9fb869df1" width="300px" height="300px" alt="Imagem 3">
- 
+
+- Esse é a alterações e melhorias que fizemos no momento, embreve teremos mais melhorias...
